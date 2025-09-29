@@ -1,0 +1,9 @@
+aiohttp
+aiofiles
+trafilatura
+beautifulsoup4
+python-dateutil
+tqdm
+PyPDF2
+pdfplumber
+requests
